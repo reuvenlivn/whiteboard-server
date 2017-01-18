@@ -1,8 +1,12 @@
-# chat-example
+# whiteboard-server
 
-This is the source code for a very simple chat example used for 
-the [Getting Started](http://socket.io/get-started/chat/) guide 
-of the Socket.IO website.
+This is the source code for a simple whiteboard used for 
+the collaborative graphic whiteboard using socket.io 
 
-Please refer to it to learn how to run this application.
-"# whiteboard-server" 
+install node
+install npm
+
+npm install    // to impost node modules
+node index.js  // to activate the server.
+
+point the browser to locahost:3000
